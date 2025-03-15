@@ -1,11 +1,11 @@
-👋 Hey there! I'm Wesley Sibanyoni
+# ✨ Hey there! I'm Wesley Sibanyoni ✨
 🚀 Full-Stack Developer | AI Enthusiast | Software Engineer in Training <br>
 
 I'm a passionate full-stack application developer with experience in <br>
 C#, JavaScript, Python, SQL, React, Node.js, .NET Core, Angular, Swift, and more. <br>
 I love solving complex problems, optimizing systems, and building creative, scalable applications.n<br>
 
-🎯 Interests: <br>
+# 🎯 Interests: <br>
 
 Software Development & DevOps <br>
 AI & Natural Language Processing <br>
@@ -33,4 +33,4 @@ Cybersecurity & Ethical Hacking <br>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 📫 Reach me on LinkedIn: linkedin.com/in/wesley-sibanyoni <br>
-📫 Reach me on Ininstagram: linkedin.com/in/wesley-sibanyoni <br>
+📫 Reach me on Ininstagram: https://www.instagram.com/senpai_isaki/ <br>
